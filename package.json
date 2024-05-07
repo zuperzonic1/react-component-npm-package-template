@@ -1,5 +1,5 @@
 {
-  "name": "@karmaniverous/react-component-npm-package-template",
+  "name": "react-gsap-typed",
   "version": "0.0.0",
   "publishConfig": {
     "access": "public"
@@ -8,7 +8,7 @@
     "type": "git",
     "url": "git@github.com:karmaniverous/react-component-npm-package-template.git"
   },
-  "author": "Jason G. Williscroft",
+  "author": "Micheal Felobes",
   "bugs": {
     "url": "https://github.com/karmaniverous/react-component-npm-package-template/issues"
   },
